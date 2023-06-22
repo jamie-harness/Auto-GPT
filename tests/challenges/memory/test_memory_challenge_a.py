@@ -18,7 +18,7 @@ def test_memory_challenge_a(
     challenge_name: str,
 ) -> None:
     """
-    The agent reads a file containing a task_id. Then, it reads a series of other files.
+    The agent reads a file containing a task_id. Then, it reads a series of other files..
     After reading 'n' files, the agent must write the task_id into a new file.
     Args:
         memory_management_agent (Agent)
